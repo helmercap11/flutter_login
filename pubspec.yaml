@@ -72,4 +72,6 @@ flutter:
   # see https://flutter.dev/custom-fonts/#from-packages
   assets:
     - assets/logo.jpg
+    - assets/Icon_Gadgets.png
+    - assets/facebook.png
 

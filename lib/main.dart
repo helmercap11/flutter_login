@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'SHOP',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.orange,
+        primarySwatch: Colors.pink,
       ),
       home: LoginPage(),
     );
